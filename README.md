@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Krystian</h1>
-<h3 align="center">I I am a novice frontend developer, my area of expertise is HTML,CSS and JavaScript</h3>
+<h3 align="center">I am a novice frontend developer, my area of expertise is HTML,CSS and JavaScript</h3>
 
 - 🌱 I’m currently learning **Typescript, React.js, StyledComponents, Redux Toolkit**
 
