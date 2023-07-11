@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Krystian</h1>
 <h3 align="center">I am a novice frontend developer, my area of expertise is React.js and JavaScript</h3>
 
-- 🌱 I’m currently learning **Typescript, React.js, StyledComponents, Redux Toolkit**
+- 🌱 I’m currently learning **Typescript, StyledComponents, Redux, Redux Toolkit**
 
 - 📫 How to reach me **masza221@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/121o2D9d4Hh4DZYFCyOUJlnDolDZzFyqE/view?usp=sharing](https://drive.google.com/file/d/121o2D9d4Hh4DZYFCyOUJlnDolDZzFyqE/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/121o2D9d4Hh4DZYFCyOUJlnDolDZzFyqE/view?usp=sharing](https://drive.google.com/file/d/1iRi-oRYG_4a6aGCrnhlUfhTevQ62xkev/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
