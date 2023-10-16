@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Typescript, StyledComponents, Redux, Redux Toolkit**
 
-- 📫 How to reach me **masza221@gmail.com**
+- 📫 How to reach me **kobelkrystian@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/121o2D9d4Hh4DZYFCyOUJlnDolDZzFyqE/view?usp=sharing](https://drive.google.com/file/d/1iRi-oRYG_4a6aGCrnhlUfhTevQ62xkev/view?usp=sharing)
 
