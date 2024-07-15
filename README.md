@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Krystian</h1>
-<h3 align="center">I am a novice frontend developer, my area of expertise is React.js and JavaScript</h3>
 
-- 🌱 I’m currently learning **Typescript, StyledComponents, Redux, Redux Toolkit**
+- 🌱 I’m currently learning **>NET 8**
 
 - 📫 How to reach me **kobelkrystian@gmail.com**
 
